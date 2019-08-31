@@ -1,0 +1,14 @@
+-i https://pypi.python.org/simple
+bootstrap-flask==1.0.9
+click==6.7
+flask-moment==0.6.0
+flask-sqlalchemy==2.3.2
+flask-wtf==0.14.2
+flask==1.0.2
+itsdangerous==0.24
+jinja2==2.10
+markupsafe==1.0
+python-dotenv==0.10.0
+sqlalchemy==1.2.10
+werkzeug==0.14.1
+wtforms==2.2.1
